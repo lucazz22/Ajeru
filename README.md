@@ -1,2 +1,2 @@
-# potential-disco
+# Ajeru
 Ajeru - Lucas Rocha
