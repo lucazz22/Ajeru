@@ -1,2 +1,2 @@
 # Ajeru
-Ajeru - Lucas Rocha
+Lucas Rocha
